@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                   @livewire('post')
                 </div>
             </div>
         </div>
